@@ -20,5 +20,5 @@ Pilhas <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%201110_Jogando%20Cartas%20Fora">1110 - Jogando Cartas Fora</a><br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_1340_Eu%20Posso%20Adivinhar%20a%20Estrutura%20de%20Dados!">1340 - Eu Posso Adivinhar a Estrutura de Dados!</a> <br>
 
-Busca
+Busca <br>
   <a href="">2593 - Eachianos I</a><br>
