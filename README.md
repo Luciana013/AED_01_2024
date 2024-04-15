@@ -5,7 +5,7 @@ Repositório para a matéria de AED I ministrada pelo professor Arlindo na UNIFE
 Luciana Bezerra da Silva - Noturno
 
 Sudoku<br>
-<a href="https://github.com/Luciana013/AED_01_2024">1003 - Soma Simples</a><br>
+<a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_1003_Soma%20Simples">1003 - Soma Simples</a><br>
 <a href="https://github.com/Luciana013/AED_01_2024/blob/main/sudoku_1383">1383 - Sudoku</a><br>
 
 Listas <br>
