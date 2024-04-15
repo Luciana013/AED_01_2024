@@ -4,7 +4,9 @@ Repositório para a matéria de AED I ministrada pelo professor Arlindo na UNIFE
 
 Luciana Bezerra da Silva - Noturno
 
-<a href="https://github.com/Luciana013/AED_01_2024/blob/main/sudoku_1383">Sudoku</a>
+Sudoku<br>
+<a href="https://github.com/Luciana013/AED_01_2024">1003 - Soma Simples</a><br>
+<a href="https://github.com/Luciana013/AED_01_2024/blob/main/sudoku_1383">1383 - Sudoku</a><br>
 
 Listas <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_1000_Hello%20World!">1000 - Hello World!</a><br>
