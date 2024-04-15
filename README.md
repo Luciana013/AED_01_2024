@@ -14,7 +14,7 @@ Luciana Bezerra da Silva - Noturno
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_3160_Amigos">3160 - Amigos</a> <br>
 
 # 3 Filas <br>
-  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%201006_M%C3%A9dia2">1006- Média 2</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%201006_M%C3%A9dia2">1006 - Média 2</a><br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%202065_Fila%20do%20Supermercado">2065 - Fila do Supermercado</a><br>
 
 # 4 Pilhas <br>
@@ -23,4 +23,4 @@ Luciana Bezerra da Silva - Noturno
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_1340_Eu%20Posso%20Adivinhar%20a%20Estrutura%20de%20Dados!">1340 - Eu Posso Adivinhar a Estrutura de Dados!</a> <br>
 
 # 5 Busca <br>
-  <a href="">2593 - Eachianos I</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/2593%20-%20Eachianos%20I">2593 - Eachianos I</a><br>
