@@ -11,3 +11,6 @@ Listas <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_2729_Lista%20de%20Compras">2729 - Listas de Compras</a><br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_3160_Amigos">3160 - Amigos</a> <br>
 
+Filas <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%201006_M%C3%A9dia2">1006- Média 2</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%202065_Fila%20do%20Supermercado">2065 - Fila do Supermercado</a><br>
