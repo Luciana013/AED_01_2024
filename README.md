@@ -14,3 +14,11 @@ Listas <br>
 Filas <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%201006_M%C3%A9dia2">1006- Média 2</a><br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%202065_Fila%20do%20Supermercado">2065 - Fila do Supermercado</a><br>
+
+Pilhas <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%201077_Infixa%20para%20Posfixa">1077 - Infixa para Posfixa</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%201110_Jogando%20Cartas%20Fora">1110 - Jogando Cartas Fora</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_1340_Eu%20Posso%20Adivinhar%20a%20Estrutura%20de%20Dados!">1340 - Eu Posso Adivinhar a Estrutura de Dados!</a> <br>
+
+Busca
+  <a href="">2593 - Eachianos I</a><br>
