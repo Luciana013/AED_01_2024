@@ -29,4 +29,4 @@ Luciana Bezerra da Silva - Noturno
   <a href="https:">1069 - Diamantes e Areia</a><br>
   <a href="https:">2381 - Lista de Chamada</a><br>
   <a href="https:">2460 - Fila</a> <br>
-  <a href="https:">2588 - Jogo dos Palíndromos</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_2588_Jogo%20dos%20Pal%C3%ADndromos">2588 - Jogo dos Palíndromos</a> <br>
