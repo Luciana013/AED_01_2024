@@ -24,3 +24,9 @@ Luciana Bezerra da Silva - Noturno
 
 ## 5 Busca <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/2593%20-%20Eachianos%20I">2593 - Eachianos I</a><br>
+
+## 6 Diversos - Revisão P1
+  <a href="https:">1069 - Diamantes e Areia</a><br>
+  <a href="https:">2381 - Lista de Chamada</a><br>
+  <a href="https:">2460 - Fila</a> <br>
+  <a href="https:">2588 - Jogo dos Palíndromos</a> <br>
