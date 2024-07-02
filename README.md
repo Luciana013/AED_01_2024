@@ -30,3 +30,14 @@ Luciana Bezerra da Silva - Noturno
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_2381_Lista%20de%20Chamada">2381 - Lista de Chamada</a><br>
   <a href="https:">2460 - Fila</a> <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_2588_Jogo%20dos%20Pal%C3%ADndromos">2588 - Jogo dos Palíndromos</a> <br>
+
+## Outros
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1004_Produto%20Simples">1004_Produto Simples</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1005_Média%201">1005_Média 1</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1007_Diferença">1007_Diferença</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1008_Salário">1008_Salário</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1009_Salário%20com%20Bônus">1009_Salário com Bônus</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1010_Cálculo%20Simples">1010_Cálculo Simples</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1011_Esfera">1011_Esfera</a> <br>
+  <a href="hhttps://github.com/Luciana013/AED_01_2024/blob/main/1012_Área">1012_Área</a> <br>
+
