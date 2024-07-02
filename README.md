@@ -39,5 +39,5 @@ Luciana Bezerra da Silva - Noturno
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1009_Salário%20com%20Bônus">1009_Salário com Bônus</a><br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1010_Cálculo%20Simples">1010_Cálculo Simples</a><br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1011_Esfera">1011_Esfera</a> <br>
-  <a href="hhttps://github.com/Luciana013/AED_01_2024/blob/main/1012_Área">1012_Área</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1012_Área">1012_Área</a> <br>
 
