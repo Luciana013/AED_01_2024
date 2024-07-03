@@ -40,4 +40,9 @@ Luciana Bezerra da Silva - Noturno
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1010_Cálculo%20Simples">1010_Cálculo Simples</a><br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1011_Esfera">1011_Esfera</a> <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1012_Área">1012_Área</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1013_O%20Maior">1013_O Maior</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1014_Consumo">1014_Consumo</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1015_Dist%C3%A2ncia%20Entre%20Dois%20Pontos">1015_Distância Entre Dois Pontos</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1016_Dist%C3%A2ncia">1016_Distância</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/1017_Gasto%20de%20Combust%C3%ADvel">1017_Gasto de Combutível</a> <br>
 
