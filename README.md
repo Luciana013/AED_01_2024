@@ -28,7 +28,7 @@ Luciana Bezerra da Silva - Noturno
 ## 6 Diversos - Revisão P1
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%201069_Diamantes%20e%20Areia">1069 - Diamantes e Areia</a><br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_2381_Lista%20de%20Chamada">2381 - Lista de Chamada</a><br>
-  <a href="https:">2460 - Fila</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_%202460_Fila">2460 - Fila</a> <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio_2588_Jogo%20dos%20Pal%C3%ADndromos">2588 - Jogo dos Palíndromos</a> <br>
 
 ## Outros
