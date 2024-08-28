@@ -62,7 +62,7 @@ Luciana Bezerra da Silva - Noturno
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1047_tempjogpmin.c">1047_Tempo de Jogo com Minutos</a> <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1049_animal.c">1049_Animal</a> <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1064-positivoemedia.c">1064_Positivos e Média</a> <br>
-  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1070_seisnimpares.c">1070_Seis Números Ímpares</a> <br>  
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1070_seisnimpares.c">1070_Seis Números Ímpares</a> <br> 
    <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1088_BolhaseBaldes.c">1088_Bolhas e Baldes</a><br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1100_MovimentosdoCavalo.c">1100_Movimentos do Cavalo</a> <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1119_AFiladeDesempregados.c">1119_A Fila de Desempregados</a> <br>
