@@ -9,8 +9,8 @@ Luciana Bezerra da Silva - Noturno
 <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/1383_sudoku.c">1383 - Sudoku</a><br>
 
 ## 2 Listas <br>
-  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_1000_HelloWorld!.c">1000 - Hello World!</a><br>
-  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_2729_ListadeCompras.c">2729 - Listas de Compras</a><br>
+ <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_1000_HelloWorld!.c">1000 - Hello World!</a><br>
+ <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_2729_ListadeCompras.c">2729 - Listas de Compras</a><br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_3160_Amigos.c">3160 - Amigos</a> <br>
 
 ## 3 Filas <br>
@@ -45,4 +45,28 @@ Luciana Bezerra da Silva - Noturno
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1015_Dist%C3%A2nciaEntreDoisPontos.c">1015_Distância Entre Dois Pontos</a> <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1016_Dist%C3%A2ncia.c">1016_Distância</a> <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1017_GastodeCombust%C3%ADvel.c">1017_Gasto de Combutível</a> <br>
-
+   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1018_cedulas.c">1018_Cédula</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1019_conversaotempo.c">1019_Conversão do Tempo</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1020_idadeemdias.c">1020_Idade em dias</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1021_notasemoedas.c">1021_Notas e Moedas</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1035_testselecao.c">1035_Teste de Seleção 1</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/1036_bhaskara.c">1036_Fórmula de Bhaskara</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1037_Intervalo.c">1037_Intervalo</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/1038_lanche.c">1038_Lanche</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1012_%C3%81rea.c">1040_Média 3</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1042_sortsimples.c">1042_Sort Simples</a> <br>
+ <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1043_triangulo.c">1043_Triângulo</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1044_multiplos.c">1044_Múltiploss</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1045_tipostriangulos.c">1045_Tipos de Triângulos</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1046_tempodejogo.c">1046_Tempo de Jogo</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1047_tempjogpmin.c">1047_Tempo de Jogo com Minutos</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1049_animal.c">1049_Animal</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1064-positivoemedia.c">1064_Positivos e Média</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1070_seisnimpares.c">1070_Seis Números Ímpares</a> <br>  
+   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1088_BolhaseBaldes.c">1088_Bolhas e Baldes</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1100_MovimentosdoCavalo.c">1100_Movimentos do Cavalo</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1119_AFiladeDesempregados.c">1119_A Fila de Desempregados</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1120_RevisãodeContrato.c">1120_Revisão de Contrato</a> <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1123_DesviodeRota.c">1123_Desvio de Rota</a> <br>
+  
+ 
