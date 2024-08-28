@@ -31,6 +31,21 @@ Luciana Bezerra da Silva - Noturno
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_%202460_Fila.c">2460 - Fila</a> <br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_2588_JogodosPal%C3%ADndromos.c">2588 - Jogo dos Palíndromos</a> <br>
 
+  ## 7 Grafos <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_1123_DesviodeRota.c">1123 - Desvio de Rota</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_2241_Go.c">2241 - Go</a><br>
+
+  ## 8 Busca <br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_1907_ColoraçãodeCenáriosdeJogos.c">1907 - Coloração de Cenários de Jogos</a><br>
+
+  ## 9 Árvores Geradoras
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_1764_ItineráriodoPapaiNoel.c">1767 - Itinerário do Papai Noel</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_1774_Roteadores.c">1774 - Roteadores</a><br>
+
+  ## 10 Misc
+  <a href="">1767 - Itinerário do Papai Noel</a><br>
+  <a href="">1774 - Roteadores</a><br>
+  
 ## Outros
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1004_Produto_Simples.c">1004_Produto Simples</a><br>
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1005_M%C3%A9dia_1.c">1005_Média 1</a><br>
