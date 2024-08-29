@@ -43,8 +43,11 @@ Luciana Bezerra da Silva - Noturno
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_1774_Roteadores.c">1774 - Roteadores</a><br>
 
   ## 10 Misc
-  <a href="">1767 - Itinerário do Papai Noel</a><br>
-  <a href="">1774 - Roteadores</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/torneio_%201215%20-%20Primeiro%20Dicionário%20de%20Andy.c">1215 - Primeiro Dicionário de Andy</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/1256%20-%20Tabelas%20Hash.c">1256 - Tabelas Hash</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/1581%20-%20Conversa%20Internacional.c">1581 - Conversa Internacional</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/2381%20-%20Lista%20de%20Chamada.c">2381 - Lista de Chamada</a><br>
+  <a href="https://github.com/Luciana013/AED_01_2024/blob/main/torneio/2929%20-%20Menor%20da%20Pilha.c">2929 - Menor da Pilha</a><br>
   
 ## Outros
   <a href="https://github.com/Luciana013/AED_01_2024/blob/main/exercicios/1004_Produto_Simples.c">1004_Produto Simples</a><br>
